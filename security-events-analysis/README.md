@@ -1,4 +1,4 @@
-# HW1 — Security Events Analysis
+# HW9 — Security Events Analysis
 
 Анализ событий информационной безопасности на основе данных в формате JSON.
 
